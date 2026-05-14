@@ -10,3 +10,6 @@ target/
 *.srl
 *.pem
 certs/
+/.bot
+/.jj
+/.vc-x1
